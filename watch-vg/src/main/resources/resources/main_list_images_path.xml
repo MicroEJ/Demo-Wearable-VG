@@ -1,0 +1,22 @@
+<!--
+	Copyright 2019-2023 MicroEJ Corp. All rights reserved.
+	Use of this source code is governed by a BSD-style license that can be found with this software.
+-->
+
+<immutables>
+	<array id="mainListImagesPath" type="java.lang.String[]">
+		<elem value="list/wf_vg-applist_ic_watch"/>
+		<elem value="list/wf_vg-applist_ic_heartrate"/>
+		<elem value="list/wf_vg-applist_ic_training"/>
+		<elem value="list/wf_vg-applist_ic_compass"/>
+		<elem value="list/wf_vg-applist_ic_bounce"/>
+		<elem value="list/wf_vg-applist_ic_circlearc"/>
+		<elem value="list/wf_vg-applist_ic_trutype"/>
+		<elem value="list/wf_vg-applist_ic_message"/>
+		<elem value="list/wf_vg-applist_ic_gps"/>
+		<elem value="list/wf_vg-applist_ic_light"/>
+		<elem value="list/wf_vg-applist_ic_music"/>
+		<elem value="list/wf_vg-applist_ic_twitter"/>
+		<elem value="list/wf_vg-applist_ic_parameter"/>
+	</array>
+</immutables>

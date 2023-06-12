@@ -1,0 +1,63 @@
+# Copyright 2020-2023 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+# Main
+/images/wf_vg-base_bkg.png:DISPLAY
+/images/wf_vg-base_preview.png:DISPLAY
+/images/unknown_preview.png:DISPLAY
+
+# List
+/images/list/wf_vg-applist_ic_bounce.png:DISPLAY
+/images/list/wf_vg-applist_ic_circlearc.png:DISPLAY
+/images/list/wf_vg-applist_ic_trutype.png:DISPLAY
+/images/list/wf_vg-applist_ic_compass.png:DISPLAY
+/images/list/wf_vg-applist_ic_gps.png:DISPLAY
+/images/list/wf_vg-applist_ic_heartrate.png:DISPLAY
+/images/list/wf_vg-applist_ic_light.png:DISPLAY
+/images/list/wf_vg-applist_ic_message.png:DISPLAY
+/images/list/wf_vg-applist_ic_music.png:DISPLAY
+/images/list/wf_vg-applist_ic_parameter.png:DISPLAY
+/images/list/wf_vg-applist_ic_training.png:DISPLAY
+/images/list/wf_vg-applist_ic_twitter.png:DISPLAY
+/images/list/wf_vg-applist_ic_watch.png:DISPLAY
+/images/list/wf_vg-applist_level2-scroll-up.png:ARGB8888
+/images/list/wf_vg-applist_level2-scroll-down.png:ARGB8888
+
+# Heart Rate
+/images/heartrate/hr-bump00.png:DISPLAY
+/images/heartrate/hr-bump01.png:DISPLAY
+/images/heartrate/hr-bump02.png:DISPLAY
+/images/heartrate/hr-bump03.png:DISPLAY
+/images/heartrate/hr-bump04.png:DISPLAY
+/images/heartrate/hr-bump05.png:DISPLAY
+/images/heartrate/hr-bump06.png:DISPLAY
+/images/heartrate/hr-bump07.png:DISPLAY
+/images/heartrate/hr-bump08.png:DISPLAY
+/images/heartrate/hr-bump09.png:DISPLAY
+/images/heartrate/hr-bump10.png:DISPLAY
+/images/heartrate/hr-bump11.png:DISPLAY
+/images/heartrate/hr-bump12.png:DISPLAY
+/images/heartrate/hr-bump13.png:DISPLAY
+/images/heartrate/hr-bump14.png:DISPLAY
+/images/heartrate/hr-bump15.png:DISPLAY
+/images/heartrate/hr-bump16.png:DISPLAY
+/images/heartrate/hr-bump17.png:DISPLAY
+/images/heartrate/hr-bump18.png:DISPLAY
+/images/heartrate/hr-bump19.png:DISPLAY
+/images/heartrate/wf_vg-hr-bkg-header-opt.png:DISPLAY
+/images/heartrate/wf_vg-hr-ic-arrow-b.png:DISPLAY
+/images/heartrate/wf_vg-hr-ic-arrow-r.png:DISPLAY
+
+# Activity
+/images/activity/ic-calories.png:A8
+/images/activity/ic-chrono.png:A8
+
+# Compass
+/images/compass/circle_rotate_black.png:DISPLAY
+/images/compass/compass-center.png:DISPLAY
+
+# Parameters
+/images/parameters/header.png:DISPLAY
+/images/parameters/switch-bkg.png:DISPLAY
+/images/parameters/switch-dot-off.png:ARGB8888
+/images/parameters/switch-dot-on.png:ARGB8888

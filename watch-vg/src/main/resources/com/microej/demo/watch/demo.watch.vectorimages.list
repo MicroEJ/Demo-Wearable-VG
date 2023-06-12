@@ -1,0 +1,6 @@
+# Copyright 2022-2023 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+/images/mascot/mascot.xml:VGF
+/images/compass/compass_marker_orange.svg:VGF
+/images/compass/compass_marker_white.svg:VGF

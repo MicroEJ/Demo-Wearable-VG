@@ -1,0 +1,13 @@
+<!--
+ Copyright 2022-2023 MicroEJ Corp. All rights reserved.
+ Use of this source code is governed by a BSD-style license that can be found with this software.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="21dp"
+    android:height="201dp"
+    android:viewportWidth="21"
+    android:viewportHeight="201">
+  <path
+      android:pathData="M12,183.1v-13.3c4.1,-0.8 6.7,-4.8 5.9,-8.8c-0.6,-3 -2.9,-5.3 -5.9,-5.9V33L10.5,0L9,33v122.1c-4.1,0.8 -6.7,4.8 -5.9,8.8c0.6,3 2.9,5.3 5.9,5.9v13.3c-4.1,0.8 -6.7,4.8 -5.8,8.8C4,196 8,198.6 12,197.7c4.1,-0.8 6.7,-4.8 5.8,-8.8C17.2,186 14.9,183.7 12,183.1L12,183.1zM7,162.5c0,-1.9 1.6,-3.5 3.5,-3.5s3.5,1.6 3.5,3.5s-1.6,3.5 -3.5,3.5S7,164.4 7,162.5zM10.5,194c-1.9,0 -3.5,-1.6 -3.5,-3.5s1.6,-3.5 3.5,-3.5s3.5,1.6 3.5,3.5S12.4,194 10.5,194z"
+      android:fillColor="#FFFFFF"/>
+</vector>

@@ -1,0 +1,102 @@
+# Copyright 2020-2023 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+msgid ""
+msgstr ""
+"Language: zh_CN\n"
+"Language-Team: 中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Locale"
+msgstr "中文"
+
+msgid "Activity title"
+msgstr "活动"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "North"
+msgstr "北"
+
+msgid "North east"
+msgstr "东北"
+
+msgid "East"
+msgstr "东"
+
+msgid "South east"
+msgstr "东南"
+
+msgid "South"
+msgstr "南"
+
+msgid "South west"
+msgstr "西南"
+
+msgid "West"
+msgstr "西"
+
+msgid "North west"
+msgstr "西北"
+
+msgid "Heart rate title"
+msgstr "心率"
+
+msgid "Current bpm"
+msgstr "实时心率"
+
+msgid "bpm unit"
+msgstr "次/分钟"
+
+msgid "Parameters title"
+msgstr "设定"
+
+msgid "Clocks"
+msgstr "时钟"
+
+msgid "Heart Rate"
+msgstr "心率"
+
+msgid "Activity"
+msgstr "活动"
+
+msgid "Compass"
+msgstr "指南针"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Vector Mascot"
+msgstr "矢量图标"
+
+msgid "Vector Circle Arc"
+msgstr "矢量圆弧"
+
+msgid "Vector Font"
+msgstr "矢量字形"
+
+msgid "GPS"
+msgstr "GPS"
+
+msgid "Light"
+msgstr "背光"
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "Twitter"
+msgstr "推特"
+
+msgid "Parameters"
+msgstr "设定"
+
+msgid "Languages"
+msgstr "语言"
+
+msgid "Calories"
+msgstr "卡路里"
+
+msgid "kcal"
+msgstr "千卡"

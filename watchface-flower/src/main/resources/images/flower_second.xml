@@ -1,0 +1,15 @@
+<!--
+ Copyright 2022-2023 MicroEJ Corp. All rights reserved.
+ Use of this source code is governed by a BSD-style license that can be found with this software.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="8dp"
+    android:height="176dp"
+    android:viewportWidth="8"
+    android:viewportHeight="176">
+  <path
+      android:pathData="M3.67,1c0,-0.65 -0.33,-1 -0.66,-1H2c-0.33,0 -0.66,0.33 -0.66,1L0,174.89A1.1,1.1 0,0 0,1.11 176H3.89A1.1,1.1 0,0 0,5 174.89Z"
+      android:strokeAlpha="0.6"
+      android:fillColor="#fff"
+      android:fillAlpha="0.6"/>
+</vector>

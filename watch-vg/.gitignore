@@ -1,0 +1,8 @@
+/.sonar/
+/bin/
+/target~/
+/launchers/*.properties
+/com.microej.Demo/
+/wifi/
+/.scannerwork/
+/.settings/org.sonarlint.eclipse.core.prefs

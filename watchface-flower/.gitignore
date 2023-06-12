@@ -1,0 +1,7 @@
+/.sonar/
+/bin/
+/target~/
+/launchers/*.properties
+/com.microej.demo.watch.watchface.flower.FlowerWatchfaceEntryPoint/
+/.scannerwork/
+/.settings/org.sonarlint.eclipse.core.prefs

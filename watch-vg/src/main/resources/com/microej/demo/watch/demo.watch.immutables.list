@@ -1,0 +1,7 @@
+# Copyright 2020-2023 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+resources/compass-tore_immutables.xml
+resources/main_list_images_path.xml
+resources/main_list_messages.xml
+resources/heart_rate_animations_images_paths.xml

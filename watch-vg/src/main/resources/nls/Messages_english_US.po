@@ -1,0 +1,102 @@
+# Copyright 2020-2023 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Locale"
+msgstr "English"
+
+msgid "Activity title"
+msgstr "Activity"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "North"
+msgstr "N"
+
+msgid "North east"
+msgstr "NE"
+
+msgid "East"
+msgstr "E"
+
+msgid "South east"
+msgstr "SE"
+
+msgid "South"
+msgstr "S"
+
+msgid "South west"
+msgstr "SW"
+
+msgid "West"
+msgstr "W"
+
+msgid "North west"
+msgstr "NW"
+
+msgid "Heart rate title"
+msgstr "Heart rate"
+
+msgid "Current bpm"
+msgstr "Live bpm"
+
+msgid "bpm unit"
+msgstr "bpm"
+
+msgid "Parameters title"
+msgstr "Parameters"
+
+msgid "Clocks"
+msgstr "Clocks"
+
+msgid "Heart Rate"
+msgstr "Heart Rate"
+
+msgid "Activity"
+msgstr "Activity"
+
+msgid "Compass"
+msgstr "Compass"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Vector Mascot"
+msgstr "VG Mascot"
+
+msgid "Vector Circle Arc"
+msgstr "VG Circle Arc"
+
+msgid "Vector Font"
+msgstr "VG Font"
+
+msgid "GPS"
+msgstr "GPS"
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Parameters"
+msgstr "Settings"
+
+msgid "Languages"
+msgstr "Languages"
+
+msgid "Calories"
+msgstr "Calories"
+
+msgid "kcal"
+msgstr "kcal"

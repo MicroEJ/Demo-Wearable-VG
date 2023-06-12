@@ -1,0 +1,6 @@
+# Copyright 2022-2023 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+/images/flowerlp_hour.svg:VGF
+/images/flowerlp_minute.svg:VGF
+/images/flowerlp_second.svg:VGF
