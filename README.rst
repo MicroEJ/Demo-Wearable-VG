@@ -13,11 +13,28 @@
 Overview
 ========
 
-This repository contains a wearable-like demo application. 
+This repository contains a smartwatch demo application. 
 
 It features several watch faces and side applications such as heart rate monitoring, activity tracking, compass, and more.
 
 The application uses `MicroUI <https://docs.microej.com/en/latest/ApplicationDeveloperGuide/UI/MicroUI/index.html>`_ and `MicroVG <https://docs.microej.com/en/latest/ApplicationDeveloperGuide/UI/MicroVG/index.html>`_ to exploit hardware's vector capabilities and to make a nice-looking/efficient user interface.
+
+Following you can have a look at some screens from the demo: 
+
+- Flower watchface screen:
+.. image:: pictures/watchface_flower.png
+   :alt: Flower Watchface
+   :align: center
+
+- Application list screen: 
+.. image:: pictures/watchface_application_list.png
+   :alt: Application List
+   :align: center
+
+- Heart Rate application screen: 
+.. image:: pictures/heartrate_application.png
+   :alt: HeartRate Application
+   :align: center
 
 Contents
 ========
@@ -44,7 +61,7 @@ This project contains the flower watchface used by the Demo Wearable VG applicat
 
 For more information, please refer to this `README.md <watchface-flower/README.md>`_.
 
-Watchface-floper-lp
+Watchface-flower-lp
 -------------------
 
 This project contains the flower low power watchface used by the Demo Wearable VG application.
