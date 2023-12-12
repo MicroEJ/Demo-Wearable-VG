@@ -1,9 +1,9 @@
-.. image:: https://shields.microej.com/endpoint?url=https://repository.microej.com/packages/badges/sdk_5.7.json
-   :alt: sdk_5.7 badge
+.. image:: https://shields.microej.com/endpoint?url=https://repository.microej.com/packages/badges/sdk_6.0.json
+   :alt: sdk_6.0 badge
    :align: left
 
-.. image:: https://shields.microej.com/endpoint?url=https://repository.microej.com/packages/badges/arch_7.17.json
-   :alt: arch_7.17 badge
+.. image:: https://shields.microej.com/endpoint?url=https://repository.microej.com/packages/badges/arch_7.20.json
+   :alt: arch_7.18 badge
    :align: left
 
 .. image:: https://shields.microej.com/endpoint?url=https://repository.microej.com/packages/badges/gui_3.json
@@ -12,6 +12,9 @@
 
 Overview
 ========
+
+The version of this demo is compatible with `SDK 6 <https://docs.microej.com/en/latest/SDK6UserGuide/index.html>`_ only.
+If you are using `SDK 5 <https://docs.microej.com/en/latest/SDKUserGuide/index.html>`_, please have a look at `1.0.1-sdk5 <https://github.com/MicroEJ/Demo-Wearable-VG/tree/1.0.1-sdk5>`_ version.
 
 This repository contains a smartwatch demo application. 
 

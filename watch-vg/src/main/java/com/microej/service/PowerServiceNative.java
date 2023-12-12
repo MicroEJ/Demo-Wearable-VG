@@ -29,21 +29,12 @@ public class PowerServiceNative {
 	 *
 	 * @return the percentage of battery charge
 	 */
-	public static int getPowerLevel() {
-		if (isCharging() && batteryLevel < MAX_POWER_LEVEL) {
-			batteryLevel++;
-		} else if (!isCharging() && batteryLevel > MIN_POWER_LEVEL) {
-			batteryLevel--;
-		}
-		return batteryLevel;
-	}
+	public static native int getPowerLevel();
 
 	/**
 	 * Tells whether the battery is charging.
 	 *
 	 * @return true if the battery is charging, false otherwise
 	 */
-	public static boolean isCharging() {
-		return random.nextBoolean();
-	}
+	public static native boolean isCharging();
 }

@@ -5,3 +5,6 @@
 /com.microej.demo.watch.watchface.sport.SportWatchfaceEntryPoint/
 /.scannerwork/
 /.settings/org.sonarlint.eclipse.core.prefs
+/.gradle/
+/.idea/
+/build/

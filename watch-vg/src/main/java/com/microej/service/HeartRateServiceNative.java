@@ -13,19 +13,12 @@ import java.util.Random;
  */
 public class HeartRateServiceNative {
 
-	private static final int MIN_HEART_RATE = 80;
-	private static final int MAX_HEART_RATE = 200;
-
-	private static Random random = new Random();
-
 	/**
 	 * Retrieves the current heart rate.
 	 *
 	 * @return the heart rate
 	 */
-	public static int getHeartRate() {
-		return MIN_HEART_RATE + random.nextInt(MAX_HEART_RATE - MIN_HEART_RATE);
-	}
+	public static native int getHeartRate();
 
 	private HeartRateServiceNative() {
 		// Prevent instantiation

@@ -53,31 +53,66 @@ When entering the clocks application, the last selected watchface is displayed.
 Following is the flow chart of the application:
 
 ![Flow Chart](../pictures/flowChart.png)
-   
+
+# Requirements
+
+* MICROEJ SDK 6.
+* A VEE Port that contains:
+  * EDC-1.3 or higher.
+  * BON-1.4 or higher.
+  * MICROUI-3.0 or higher.
+  * MICROVG-1.1 or higher.
+
+This example has been tested on:
+
+* Android Studio with MicroEJ plugin for IntelliJ IDEA 0.3.0.
+* i.MX RT595 EVK VEE Port 1.2.0.
+
 # Usage
 
 The main class is [Demo.java](src/main/java/com/microej/Demo.java).
 
-Two launchers are available:
-- `DemoWearableVG (SIM)`: launches the demo on the simulator of the [i.MX RT595 EVK](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt595-evaluation-kit:MIMXRT595-EVK) board.
-- `DemoWearableVG (EMB)`: builds a binary of the demo for the [i.MX RT595 EVK](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt595-evaluation-kit:MIMXRT595-EVK) board.
+By default, the sample will use the i.MX RT595 EVK VEE Port 1.2.0.
 
-i.MX RT595 EVK VEE Port is available on [nxp-vee-imxrt595-evk](https://github.com/MicroEJ/nxp-vee-imxrt595-evk) repository.
+Refer to the [Select a VEE Port](https://docs.microej.com/en/latest/SDK6UserGuide/selectVeePort.html) documentation for more information.
 
-# Requirements
+## Run on Simulator
 
-This library requires the following Foundation Libraries:
+In Android Studio:
+- Open the Gradle tool window by clicking on the elephant icon on the right side,
+- Expand the `Demo-Wearable-VG` list,
+- From the `Demo-Wearable-VG` list, Expand the `Tasks` list,
+- From the `Tasks` list, expand the `microej` list,
+- Double-click on `runOnSimulator`,
+- The application starts, the traces are visible in the Run view.
 
-    EDC-1.3 BON-1.4 MICROUI-3.0 MICROVG-1.1
+Alternative ways to run in simulation are described in the [Run on Simulator](https://docs.microej.com/en/feature-microej-sdk-6/SDK6UserGuide/runOnSimulator.html) documentation.
 
+## Run on Device
 
-# Dependencies
-_All dependencies are retrieved transitively by Ivy resolver_.
+Make sure to properly setup the VEE Port environment before going further.
+Refer to the VEE Port README for more information.
+
+In Android Studio:
+- Open the Gradle tool window by clicking on the elephant on the right side,
+- Expand the `Demo-Wearable-VG` list,
+- From the `Demo-Wearable-VG` list, Expand the `Tasks` list,
+- From the `Tasks` list, expand the `microej` list,
+- Double-Click on `runOnDevice`.
+- The device is flashed. Use the appropriate tool to retrieve the execution traces.
+
+Alternative ways to run on device are described in the [Run on Device](https://docs.microej.com/en/feature-microej-sdk-6/SDK6UserGuide/runOnDevice.html) documentation.
+
+## Dependencies
+
+_All dependencies are retrieved transitively by Gradle._
 
 # Source
+
 N/A
 
 # Restrictions
+
 None.
   
 ---

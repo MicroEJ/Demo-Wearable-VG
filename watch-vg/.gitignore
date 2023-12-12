@@ -6,3 +6,6 @@
 /wifi/
 /.scannerwork/
 /.settings/org.sonarlint.eclipse.core.prefs
+/.gradle/
+/.idea/
+/build/

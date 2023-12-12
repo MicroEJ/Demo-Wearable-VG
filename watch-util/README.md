@@ -4,7 +4,7 @@ This project contains the utility methods used by the Wearable VG Demo.
 
 # Usage
 
-Install this application on the `module.ivy` file of the wearable demo firmware.
+Install this application on the `build.gradle.kts` file of the wearable demo firmware.
 
 # Requirements
 
@@ -12,7 +12,7 @@ This application requires the runtime environment of the wearable demo firmware.
 
 # Dependencies
 
-_All dependencies are retrieved transitively by MicroEJ Module Manager_.
+_All dependencies are retrieved transitively by Gradle_.
 
 # Source
 
